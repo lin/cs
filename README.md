@@ -16,8 +16,10 @@ Core:
 
 1. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 1 - 5), Feb 2019
 
-1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 1 - 5), :rocket: [Project 1 - 5](), Feb 18-20 2019
+1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 1 - 5), Feb 18-20 2019
 
+   :rocket: [Project 1 - 5]()
+   
 Others:
 
 - :books: _[Feynman Lectures On Computation](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)_ Feb 2019
@@ -46,7 +48,9 @@ Core:
 
 1. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 6 - 8), Feb. 2019
 
-1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 6 - 8), :rocket: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), :rocket: [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun 2019
+1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 6 - 8), Jun 2019
+
+   :rocket: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), :rocket: [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm)
 
 ### Compiler
 
@@ -60,13 +64,17 @@ Core:
 
 1. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 10 - 11), Jun 2019
 
-1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 6 - 8), :rocket: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), :rocket: [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm), Jun 2019
+1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 10 - 11), Jun 2019
+   
+   :rocket: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), :rocket: [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm)
 
 1. :mag_right: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
  
    Babel Parser is for parsing JavaScript, using Recursive Descent Algorithm.
      
-1. :mag_right: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, :rocket: [Rewrite](https://github.com/lin/html-parser-lite), Jun 2019
+1. :mag_right: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
+   
+   :rocket: [Rewrite](https://github.com/lin/html-parser-lite)
 
 1. :mag_right: [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
