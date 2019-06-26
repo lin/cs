@@ -2,7 +2,7 @@
 
 - - -
  
- :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :mag_right: Source Codes
+ :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :mag_right: Cracking Source Codes
 
 - - -
 
@@ -12,13 +12,7 @@ Core:
 
 1. :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
 
-   This is kinda a book that tagarts for any layman, but it becomes complicated after mentioning flip-flop. I read this again in Feb 2019, after I have learned more on assembly from Nand2Tetris.
-   
-   I would like to recommend this book to my child when he/she comes to age, as a introductionary book for programming.
-
 1. :tv: [Build an 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU), Spring Festival Holidays, 2019
-
-   This is an amazing experience to learn about how to build a computer using chips. I wish I would have time to build this when I got enough time.
 
 1. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 1 - 5), Feb 2019
 
@@ -56,23 +50,25 @@ Core:
 
 ### Compiler
 
-1. :mortar_board: [Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/), Feb  - Jun 2019
+1. :mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/), Feb May Jun 2019
+
+1. :mag_right: [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
+
+   By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
+
+   :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
 
 1. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 10 - 11), Jun 2019
 
 1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 6 - 8), :rocket: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), :rocket: [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm), Jun 2019
 
-1. :mag_right: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), Jun 2019
-
+1. :mag_right: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
+ 
    Babel Parser is for parsing JavaScript, using Recursive Descent Algorithm.
-   
+     
 1. :mag_right: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, :rocket: [Rewrite](https://github.com/lin/html-parser-lite), Jun 2019
 
 1. :mag_right: [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
 1. :mag_right: [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
-
-1. :mag_right: [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
-
-   :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
    
