@@ -12,11 +12,13 @@ Core:
 
 1.  :exclamation: :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
+    :man_technologist: Codes: [Project 1 - 5]()
+
 1. :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
 
 1. :tv: [Build an 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU), Spring Festival Holidays, 2019
 
-   :man_technologist: [Project 1 - 5]()
+   
    
 Others:
 
@@ -46,7 +48,7 @@ Core:
 
 1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
 
-   :man_technologist: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), :man_technologist: [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm)
+   :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm)
 
 ### Compiler
 
@@ -60,7 +62,7 @@ Core:
 
 1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
    
-   :man_technologist: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), :man_technologist: [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm)
+   :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm)
 
 1. :male_detective: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
  
@@ -68,7 +70,7 @@ Core:
      
 1. :male_detective: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
    
-   :man_technologist: [Rewrite](https://github.com/lin/html-parser-lite)
+   :man_technologist: Codes: [Rewrite](https://github.com/lin/html-parser-lite)
 
 1. :male_detective: [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
