@@ -10,11 +10,11 @@
 
 Core:
 
+1.  :exclamation: :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
+
 1. :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
 
 1. :tv: [Build an 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU), Spring Festival Holidays, 2019
-
-1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
    :man_technologist: [Project 1 - 5]()
    
@@ -26,7 +26,7 @@ Others:
 
 Core:
 
-1. :books: _[Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)_, Feb 2019
+1.  :exclamation: :books: _[Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)_, Feb 2019
 
 1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov 2017
 
@@ -42,7 +42,7 @@ Others:
 
 Core: 
 
-1. :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
+1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
 
 1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
 
@@ -50,7 +50,7 @@ Core:
 
 ### Compiler
 
-1. :mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/), Feb May Jun 2019
+1.  :exclamation::mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/), Feb May Jun 2019
 
 1. :male_detective: [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
 
