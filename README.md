@@ -2,7 +2,7 @@
 
 - - -
  
- :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :man_technologist: Cracking Source Codes
+ :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :male_detective: Cracking Source Codes
 
 - - -
 
@@ -52,7 +52,7 @@ Core:
 
 1. :mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/), Feb May Jun 2019
 
-1. :mag_right: [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
+1. :male_detective: [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
 
    By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
 
@@ -62,15 +62,15 @@ Core:
    
    :man_technologist: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), :man_technologist: [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm)
 
-1. :mag_right: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
+1. :male_detective: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
  
    Babel Parser is for parsing JavaScript, using Recursive Descent Algorithm.
      
-1. :mag_right: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
+1. :male_detective: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
    
    :man_technologist: [Rewrite](https://github.com/lin/html-parser-lite)
 
-1. :mag_right: [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
+1. :male_detective: [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
-1. :mag_right: [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
+1. :male_detective: [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
    
