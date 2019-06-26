@@ -14,8 +14,6 @@ Core:
 
 1. :tv: [Build an 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU), Spring Festival Holidays, 2019
 
-1. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 1 - 5), Feb 2019
-
 1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 1 - 5), Feb 18-20 2019
 
    :rocket: [Project 1 - 5]()
@@ -46,8 +44,6 @@ Core:
 
 1. :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
 
-1. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 6 - 8), Feb. 2019
-
 1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 6 - 8), Jun 2019
 
    :rocket: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), :rocket: [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm)
@@ -61,8 +57,6 @@ Core:
    By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
 
    :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
-
-1. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 10 - 11), Jun 2019
 
 1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 10 - 11), Jun 2019
    
