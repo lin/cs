@@ -14,7 +14,7 @@ Core:
 
 1. :tv: [Build an 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU), Spring Festival Holidays, 2019
 
-1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 1 - 5), Feb 18-20 2019
+1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
    :rocket: [Project 1 - 5]()
    
@@ -44,7 +44,7 @@ Core:
 
 1. :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
 
-1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 6 - 8), Jun 2019
+1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
 
    :rocket: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), :rocket: [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm)
 
@@ -58,7 +58,7 @@ Core:
 
    :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
 
-1. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 10 - 11), Jun 2019
+1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
    
    :rocket: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), :rocket: [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm)
 
