@@ -2,7 +2,7 @@
 
 - - -
  
- :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :mag_right: Cracking Source Codes
+ :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :man_technologist: Cracking Source Codes
 
 - - -
 
@@ -16,7 +16,7 @@ Core:
 
 1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
-   :rocket: [Project 1 - 5]()
+   :man_technologist: [Project 1 - 5]()
    
 Others:
 
@@ -46,7 +46,7 @@ Core:
 
 1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
 
-   :rocket: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), :rocket: [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm)
+   :man_technologist: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), :man_technologist: [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm)
 
 ### Compiler
 
@@ -60,7 +60,7 @@ Core:
 
 1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
    
-   :rocket: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), :rocket: [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm)
+   :man_technologist: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), :man_technologist: [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm)
 
 1. :mag_right: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
  
@@ -68,7 +68,7 @@ Core:
      
 1. :mag_right: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
    
-   :rocket: [Rewrite](https://github.com/lin/html-parser-lite)
+   :man_technologist: [Rewrite](https://github.com/lin/html-parser-lite)
 
 1. :mag_right: [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
