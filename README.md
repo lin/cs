@@ -1,5 +1,8 @@
-
+- - -
+ 
  :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :mag_right: Source Codes
+
+- - -
 
 ### Circuit Logic
 
@@ -39,7 +42,11 @@ Others:
 
 Core: 
 
-1. :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ Mar 2019
+1. :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
+
+2. :books: _[The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)_ (Chapter 6 - 8), Feb. 2019
+
+4. :mortar_board: [From Nand to Tetris](https://www.nand2tetris.org/course) (Project 6 - 8), :computer: [Project 6](https://github.com/lin/nand2tetris-assembly), [Project 7-8](https://github.com/lin/nand2tetris-vm), Jun 2019
 
 ### Compiler
 
