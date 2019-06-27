@@ -62,7 +62,7 @@ Core:
 
 1. :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
    
-   :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), [Project 11 (Generator)](https://github.com/lin/nand2tetris-vm)
+   :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator)
 
 1. :male_detective: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
  
