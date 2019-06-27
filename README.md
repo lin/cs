@@ -6,9 +6,9 @@
 
 - - -
 
-### Circuit Logic
+## Stage I: System
 
-Core:
+### Circuit Logic
 
 1.  :exclamation: :mortar_board: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
@@ -18,15 +18,9 @@ Core:
 
 1. :tv: [Build an 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU), Spring Festival Holidays, 2019
 
-   
-   
-Others:
-
-- :books: _[Feynman Lectures On Computation](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)_ Feb 2019
+1. :books: _[Feynman Lectures On Computation](https://www.amazon.com/Feynman-Lectures-Computation-Frontiers-Physics/dp/0738202967)_ Feb 2019
 
 ### Computation Theory
-
-Core:
 
 1.  :exclamation: :books: _[Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)_, Feb 2019
 
@@ -36,13 +30,9 @@ Core:
 
 1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb 2019
 
-Others:
-
-- :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov 2017
+1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov 2017
 
 ### Computer Systems
-
-Core: 
 
 1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
 
