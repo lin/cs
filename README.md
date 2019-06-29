@@ -32,7 +32,7 @@ Other registers are used to save temporary information, notably A (often accumul
 
     Combinatory Logic; ALU; Sequential Logic; Machine Language; CPU; Assembly Language
 
-1. :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
+1.  :exclamation: :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
 
 1. :tv: [Build an 8-bit computer from scratch](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU), Spring Festival Holidays, 2019
 
@@ -44,7 +44,7 @@ Other registers are used to save temporary information, notably A (often accumul
 
     :man_technologist: [Selected Implementation](https://github.com/lin/csapp)
 
-1. :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
+1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
 
     :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), May 22 2019,  [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun 14 2019
 
@@ -54,15 +54,15 @@ Other registers are used to save temporary information, notably A (often accumul
 
 1.  :exclamation::mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (Week 2 - 4), Feb 2019
 
+1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
+   
+    :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), Jun 21 2019, [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator), Jun 26-27 2019
+
 1. :male_detective: [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
 
     By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
 
     :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
-
-1. :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
-   
-    :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), Jun 21 2019, [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator), Jun 26-27 2019
 
 1. :male_detective: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
  
