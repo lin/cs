@@ -36,9 +36,11 @@
 
 1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
 
+    :man_technologist: [Selected Implementation](https://github.com/lin/csapp)
+
 1. :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
 
-   :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), May 22 2019,  [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun 14 2019
+    :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), May 22 2019,  [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun 14 2019
 
 ### Compiler
 
@@ -46,21 +48,21 @@
 
 1. :male_detective: [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
 
-   By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
+    By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
 
-   :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
+    :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
 
 1. :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
    
-   :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), Jun 21 2019, [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator), Jun 26-27 2019
+    :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), Jun 21 2019, [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator), Jun 26-27 2019
 
 1. :male_detective: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
  
-   Babel Parser is for parsing JavaScript, using Recursive Descent Algorithm.
+    Babel Parser is for parsing JavaScript, using Recursive Descent Algorithm.
      
 1. :male_detective: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
    
-   :man_technologist: Codes: [Rewrite](https://github.com/lin/html-parser-lite)
+    :man_technologist: Codes: [Rewrite](https://github.com/lin/html-parser-lite)
 
 1. :male_detective: [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
