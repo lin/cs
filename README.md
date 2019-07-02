@@ -58,23 +58,23 @@ Other registers are used to save temporary information, notably A (often accumul
    
     :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), Jun 21 2019, [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator), Jun 26-27 2019
 
-1. :male_detective: [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
+1. :male_detective: **JISON** [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
 
     By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
 
     :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
 
-1. :male_detective: [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
+1. :male_detective: **Babel: ** [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
  
     Babel Parser is for parsing JavaScript, using Recursive Descent Algorithm.
      
-1. :male_detective: [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
+1. :male_detective: **Vue.js: ** [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
    
     :man_technologist: Codes: [Rewrite](https://github.com/lin/html-parser-lite)
 
-1. :male_detective: [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
+1. :male_detective: **KaTex: ** [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
-1. :male_detective: [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
+1. :male_detective: **Math.js: ** [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
    
 ### Mathematical Logic
 
