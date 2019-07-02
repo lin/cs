@@ -30,7 +30,7 @@ Other registers are used to save temporary information, notably A (often accumul
 
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
-    Combinatory Logic; ALU; Sequential Logic; Machine Language; CPU; Assembly Language
+    :man_technologist: [Combinatory Logic](https://github.com/lin/nand2tetris-gates/); [ALU](https://github.com/lin/nand2tetris-alu/); [Register & Memory](https://github.com/lin/nand2tetris-memory/); [CPU](https://github.com/lin/nand2tetris-cpu/)
 
 1.  :exclamation: :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
 
