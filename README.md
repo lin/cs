@@ -31,6 +31,8 @@ Other registers are used to save temporary information, notably A (often accumul
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
     :man_technologist: [Combinatory Logic](https://github.com/lin/nand2tetris-gates/); [ALU](https://github.com/lin/nand2tetris-alu/); [Register & Memory](https://github.com/lin/nand2tetris-memory/); [CPU](https://github.com/lin/nand2tetris-cpu/)
+    
+1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 4), Jul 2019
 
 1.  :exclamation: :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
 
