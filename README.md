@@ -45,8 +45,6 @@ Other registers are used to save temporary information, notably A (often accumul
 1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
 
     :man_technologist: [Selected Implementation](https://github.com/lin/csapp)
-    
-    Chapter 3: Machine-Level Representation of Programs is the core learning material to study assembly.
 
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
 
