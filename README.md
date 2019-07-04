@@ -18,9 +18,9 @@ The elementaty of information transformation is presented by And Or Not gates, a
 
 Then, by introducing flip flop(DFF), we could store and retrieve data at will. Not only a single bit of data, but a sequence of bits can be saved and accessed using flip flop techniques.
 
-To make computer Turing Complete, conditional jump is needed. That's what program counter does. Program counter can be made using combinatory logic and store/write data using flip-flop based register.
+To make computer Turing Complete, jump is needed. That's what program counter does. Program counter can be made using combinatory logic and store/write data using flip-flop based register.
 
-The ALU is to compute combinatory logic, and CPU is for reading / writing data (DFF), calling ALU (NAND)to compute and controling (NAND & DFF) commands.
+The ALU is to compute combinatory logic (with helper funcitons like add, inc, multi, xor, shift etc.), and CPU is for reading / writing data (DFF), calling ALU (NAND)to compute and controling (NAND & DFF) commands.
 
 To access the memory, we need a register to store the address of memory (Memory Register). 
 
