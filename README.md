@@ -15,7 +15,7 @@ The training purpose is:
 - Why Turing machine and Lambda Calculus is equivalent.
 - Understand how Godel proved the incompleteness theorom.
 
-1. :exclamation: :books: _[The Logic Book]_(https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413), Nov 2017, Jul 2019
+1. :exclamation: :books: _[The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413)_, Nov 2017, Jul 2019
 
 1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov 2017
 
