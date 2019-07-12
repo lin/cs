@@ -6,6 +6,23 @@
 
 - - -
 
+## Stage 0: Mathematical Logic & Computation Theory
+
+The training purpose is:
+
+- Understand the concepts of SL and PL(First Order Logic)
+- Understand how Turing proved the decision problem.
+- Why Turing machine and Lambda Calculus is equivalent.
+- Understand how Godel proved the incompleteness theorom.
+
+1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov 2017
+
+1. :books: _[Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/)_, Nov 2017
+
+1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb 2019
+
+1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov 2017
+
 ## Stage I: System
 
 ### Circuit Logic
@@ -77,20 +94,7 @@ Other registers are used to save temporary information, notably A (often accumul
 1. :male_detective: **KaTex:** [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
 1. :male_detective: **Math.js:** [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
-   
-### Mathematical Logic
 
-The training purpose is:
+## Stage II: Graphics
 
-- Understand the concepts of SL and PL(First Order Logic)
-- Understand how Turing proved the decision problem.
-- Why Turing machine and Lambda Calculus is equivalent.
-- Understand how Godel proved the incompleteness theorom.
-
-1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov 2017
-
-1. :books: _[Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/)_, Nov 2017
-
-1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb 2019
-
-1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov 2017
+1. Unicode and Font
