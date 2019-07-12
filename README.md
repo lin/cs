@@ -80,6 +80,13 @@ Other registers are used to save temporary information, notably A (often accumul
    
 ### Mathematical Logic
 
+The training purpose is:
+
+- Understand the concepts of SL and PL(First Order Logic)
+- Understand how Turing proved the decision problem.
+- Why Turing machine and Lambda Calculus is equivalent.
+- Understand how Godel proved the incompleteness theorom.
+
 1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov 2017
 
 1. :books: _[Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/)_, Nov 2017
