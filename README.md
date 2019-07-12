@@ -99,4 +99,4 @@ Other registers are used to save temporary information, notably A (often accumul
 
 ## Stage II: Graphics
 
-1. [Unicode](https://gist.github.com/lin/37b17bf231a49ae3bbac1a106299416c) and Font
+1. :notebook: [Unicode](https://gist.github.com/lin/37b17bf231a49ae3bbac1a106299416c) and Font
