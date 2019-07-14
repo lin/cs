@@ -1,7 +1,7 @@
 # Self-Taughting CS
 
 - - -
- 
+
  :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :male_detective: Cracking Source Codes
 
 - - -
@@ -31,7 +31,7 @@ The training purpose is:
 
 The computer is a hardware implementation of Turing Machine.
 
-The information is encoded by high and low voltage of transistors. 
+The information is encoded by high and low voltage of transistors.
 
 The elementaty of information transformation is presented by And Or Not gates, alternatively the three gates (NAND) can be made through Nand gates. By using these primative gates all transformation of f(\vec{a}) = \vec{b} can be realize, in the symbol set of {0, 1}. This is the combinatory logic part.
 
@@ -41,7 +41,7 @@ To make computer Turing Complete, jump is needed. That's what program counter do
 
 The ALU is to compute combinatory logic (with helper funcitons like add, inc, multi, xor, shift etc.), and CPU is for reading / writing data (DFF), calling ALU (NAND)to compute and controling (NAND & DFF) commands.
 
-To access the memory, we need a register to store the address of memory (Memory Register). 
+To access the memory, we need a register to store the address of memory (Memory Register).
 
 To distinguish one command from another, we need a register to access the command address (Instruction Register).
 
@@ -50,7 +50,7 @@ Other registers are used to save temporary information, notably A (often accumul
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
     :man_technologist: [Combinatory Logic](https://github.com/lin/nand2tetris-gates/); [ALU](https://github.com/lin/nand2tetris-alu/); [Register & Memory](https://github.com/lin/nand2tetris-memory/); [CPU](https://github.com/lin/nand2tetris-cpu/)
-    
+
 1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 4), Jul 2019
 
 1.  :exclamation: :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
@@ -76,7 +76,7 @@ Other registers are used to save temporary information, notably A (often accumul
 1.  :exclamation::mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (Week 2 - 4), Feb 2019
 
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
-   
+
     :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), Jun 21 2019, [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator), Jun 26-27 2019
 
 1. :male_detective: **JISON:** [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
@@ -86,11 +86,11 @@ Other registers are used to save temporary information, notably A (often accumul
     :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
 
 1. :male_detective: **Babel:** [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
- 
+
     Babel Parser is for parsing JavaScript, using Recursive Descent Algorithm.
-     
+
 1. :male_detective: **Vue.js:** [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
-   
+
     :man_technologist: Codes: [Rewrite](https://github.com/lin/html-parser-lite)
 
 1. :male_detective: **KaTex:** [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
@@ -99,4 +99,8 @@ Other registers are used to save temporary information, notably A (often accumul
 
 ## Stage II: Graphics
 
-1. :notebook: [Unicode](https://gist.github.com/lin/37b17bf231a49ae3bbac1a106299416c) and Font
+1. :notebook: [Important Unicode Codepoint](./mds/unicode.md)
+
+1. :notebook: [Font Metrics](./imgs/FontMetrics.png)
+
+1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul 2019
