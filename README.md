@@ -8,13 +8,6 @@
 
 ## Stage 0: Mathematical Logic & Computation Theory
 
-The training purpose is:
-
-- Understand the concepts of SL and PL(First Order Logic)
-- Understand how Turing proved the decision problem.
-- Why Turing machine and Lambda Calculus is equivalent.
-- Understand how Godel proved the incompleteness theorom.
-
 1. :exclamation: :books: _[The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413)_, Nov 2017, Jul 2019
 
 1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov 2017
@@ -28,24 +21,6 @@ The training purpose is:
 ## Stage I: System
 
 ### Circuit Logic
-
-The computer is a hardware implementation of Turing Machine.
-
-The information is encoded by high and low voltage of transistors.
-
-The elementaty of information transformation is presented by And Or Not gates, alternatively the three gates (NAND) can be made through Nand gates. By using these primative gates all transformation of f(\vec{a}) = \vec{b} can be realize, in the symbol set of {0, 1}. This is the combinatory logic part.
-
-Then, by introducing flip flop(DFF), we could store and retrieve data at will. Not only a single bit of data, but a sequence of bits can be saved and accessed using flip flop techniques.
-
-To make computer Turing Complete, jump is needed. That's what program counter does. Program counter can be made using combinatory logic and store/write data using flip-flop based register.
-
-The ALU is to compute combinatory logic (with helper funcitons like add, inc, multi, xor, shift etc.), and CPU is for reading / writing data (DFF), calling ALU (NAND)to compute and controling (NAND & DFF) commands.
-
-To access the memory, we need a register to store the address of memory (Memory Register).
-
-To distinguish one command from another, we need a register to access the command address (Instruction Register).
-
-Other registers are used to save temporary information, notably A (often accumulation is stored in A) register and B register for ALU, and D register for saving intermedia data. Others might saved on a short stack (local), memory(long) or files.
 
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
 
@@ -83,7 +58,7 @@ Other registers are used to save temporary information, notably A (often accumul
 
     By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
 
-    :notebook: [How to distinguish LL LR SLR LALR?](https://gist.github.com/lin/dc83bb38eb458ded3ff01aec4a327d54)
+    :notebook: [How to distinguish LL LR SLR LALR?](./mds/parsers.md)
 
 1. :male_detective: **Babel:** [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
 
@@ -97,7 +72,19 @@ Other registers are used to save temporary information, notably A (often accumul
 
 1. :male_detective: **Math.js:** [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
 
-## Stage II: Graphics
+## Stage II: Algorithms
+
+1. :exclamation: :mortar_board: [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) (Coursera), Aug 2019
+
+ - [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1/)
+
+ - [Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2/)
+
+ - [Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3/)
+
+1. :books: [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+
+ - :man_technologist: [Selected Implementations](https://github.com/lin/CLRS)
 
 1. :notebook: [Important Unicode Codepoint](./mds/unicode.md)
 
