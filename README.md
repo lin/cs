@@ -1,4 +1,4 @@
-# Self-Taughting CS
+# Learning the Basics of CS
 
 - - -
 
@@ -96,11 +96,11 @@
 
 1. :notebook: [Font Metrics](./imgs/FontMetrics.png)
 
-1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul 2019
+1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul 2019, Dec 2019
 
 1. :man_technologist: Wrote a typesetting system which basically is a lighter version of MathJax, Dec 2019
 
-1. :man_technologist: [Fixed a minor bug](https://github.com/mathjax/MathJax-src/commit/dc9d6bead3f0a7e4ccd88db450db399543ae6ba8) in MathJax (merged into master) when outputing square root surd.
+1. :man_technologist: [Fixed a minor bug](https://github.com/mathjax/MathJax-src/pull/412) in MathJax (merged into master) when outputing square root.
 
 ### Computer Graphics
 
