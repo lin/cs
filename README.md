@@ -2,7 +2,7 @@
 
 - - -
 
- :books: Books, :mortar_board: Online Courses, :tv: YouTube Videos, :male_detective: Cracking Source Codes
+ :books: Books, :mortar_board: Formal Courses, :tv: YouTube Videos, :male_detective: Cracking Source Codes
 
 - - -
 
@@ -81,6 +81,8 @@
  - [Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2/)
 
  - [Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3/)
+ 
+ - Took the UIUC [Data Structures Proficiency Exam](https://cs.illinois.edu/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam), Got A+
 
 1. :books: [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
@@ -88,6 +90,20 @@
 
 1. :notebook: [Important Unicode Codepoint](./mds/unicode.md)
 
+## Stage III: Computer Graphics
+
+### Font & Typesetting
+
 1. :notebook: [Font Metrics](./imgs/FontMetrics.png)
 
 1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul 2019
+
+1. :man_technologist: Wrote a typesetting system which basically is a lighter version of MathJax, Dec 2019
+
+1. :man_technologist: [Fixed a minor bug](https://github.com/mathjax/MathJax-src/commit/dc9d6bead3f0a7e4ccd88db450db399543ae6ba8) in MathJax (merged into master) when outputing square root surd.
+
+### Computer Graphics
+
+1. :mortar_board:UIUC CS 418 [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Feb 2020 - May 2020
+
+1. :male_detective: Cracked the main logic of [three.js](https://github.com/mrdoob/three.js/), Mar 2020
