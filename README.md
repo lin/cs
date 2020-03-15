@@ -72,6 +72,8 @@
 
 1. :male_detective: **Math.js:** [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
 
+1. :man_technologist: Wrote a tiny Mathematica-like computer algeba system for educational purposes. Implemented some rudimental algebra like `Simplify`, `Expand` / `Factor` and `Solve` functionalities. Jan 2020
+
 ## Stage II: Algorithms
 
 1. :exclamation: :mortar_board: [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) (Coursera), Aug 2019
