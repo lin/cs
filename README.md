@@ -56,7 +56,7 @@
 
 1. :male_detective: **JISON:** [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
 
-    By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too formal and too little examples are presented.
+    By far, parsing techniques is the hardest part of this learning journey, the main reason might be the lack of ideal learning materials. Things are taught too abstract and too little examples are presented.
 
     :notebook: [How to distinguish LL LR SLR LALR?](./mds/parsers.md)
 
@@ -87,14 +87,12 @@
 1. :books: [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
  - :man_technologist: [Selected Implementations](https://github.com/lin/CLRS)
-
-1. :notebook: [Important Unicode Codepoint](./mds/unicode.md)
-
+ 
 ## Stage III: Computer Graphics
 
 ### Font & Typesetting
 
-1. :notebook: [Font Metrics](./imgs/FontMetrics.png)
+1. :notebook: [Font Metrics](./imgs/FontMetrics.png), :notebook: [Important Unicode Codepoint](./mds/unicode.md)
 
 1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul 2019, Dec 2019
 
@@ -106,4 +104,6 @@
 
 1. :mortar_board:UIUC CS 418 [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Feb 2020 - May 2020
 
-1. :male_detective: Cracked the main logic of [three.js](https://github.com/mrdoob/three.js/), Mar 2020
+1. :male_detective: [three.js](https://github.com/mrdoob/three.js/) Web-Based 3D Graphics Library, Mar 2020
+
+1. :male_detective: [GSAP](https://greensock.com/) Web-Based Animation Library, Mar 2020
