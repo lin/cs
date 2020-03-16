@@ -106,6 +106,9 @@
 
 1. :mortar_board:UIUC CS 418 [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Feb 2020 - May 2020
 
-1. :male_detective: [three.js](https://github.com/mrdoob/three.js/) Web-Based 3D Graphics Library, Mar 2020
+1. :male_detective: [three.js](https://github.com/mrdoob/three.js/)  3D Graphics Library, Mar 2020
 
-1. :male_detective: [GSAP](https://greensock.com/) Web-Based Animation Library, Mar 2020
+   - :books: [Learn WebGL](http://learnwebgl.brown37.net/index.html)
+   - :tv: [WebGL Tutorial](https://youtu.be/kB0ZVUrI4Aw)
+
+1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar 2020
