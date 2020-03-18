@@ -110,6 +110,7 @@
  
    - :books: [WebGL Fundamentals](https://webglfundamentals.org/)
    - :books: [Learn WebGL](http://learnwebgl.brown37.net/index.html)
+   - :books: [3D Graphics with OpenGL](https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
    - :tv: [WebGL Tutorial](https://youtu.be/kB0ZVUrI4Aw)
    
 1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar 2020
