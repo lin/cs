@@ -78,17 +78,17 @@
 
 1. :exclamation: :mortar_board: [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) (Coursera), Aug 2019
 
- - [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1/)
+    - [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1/)
 
- - [Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2/)
+    - [Ordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-2/)
 
- - [Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3/)
+    - [Unordered Data Structures](https://www.coursera.org/learn/cs-fundamentals-3/)
  
- - Took the UIUC [Data Structures Proficiency Exam](https://cs.illinois.edu/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam), Got A+
+    - Took the UIUC [Data Structures Proficiency Exam](https://cs.illinois.edu/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam), Got A+
 
 1. :books: [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
- - :man_technologist: [Selected Implementations](https://github.com/lin/CLRS)
+    - :man_technologist: [Selected Implementations](https://github.com/lin/CLRS)
  
 ## Stage III: Computer Graphics
 
@@ -108,11 +108,11 @@
 
 1. :male_detective: [three.js](https://github.com/mrdoob/three.js/)  3D Graphics Library, Mar 2020
 
-- :books: [WebGL Fundamentals](https://webglfundamentals.org/)
-- :books: [Learn WebGL](http://learnwebgl.brown37.net/index.html)
-- :books: [3D Graphics with OpenGL](https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
-- :tv: [WebGL Tutorial](https://youtu.be/kB0ZVUrI4Aw)
+    - :books: [WebGL Fundamentals](https://webglfundamentals.org/)
+    - :books: [Learn WebGL](http://learnwebgl.brown37.net/index.html)
+    - :books: [3D Graphics with OpenGL](https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
+    - :tv: [WebGL Tutorial](https://youtu.be/kB0ZVUrI4Aw)
    
 1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar 2020
 
-- :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar 2020
+    - :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar 2020
