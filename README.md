@@ -107,10 +107,12 @@
 1. :mortar_board:UIUC CS 418 [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Feb 2020 - May 2020
 
 1. :male_detective: [three.js](https://github.com/mrdoob/three.js/)  3D Graphics Library, Mar 2020
- 
-   - :books: [WebGL Fundamentals](https://webglfundamentals.org/)
-   - :books: [Learn WebGL](http://learnwebgl.brown37.net/index.html)
-   - :books: [3D Graphics with OpenGL](https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
-   - :tv: [WebGL Tutorial](https://youtu.be/kB0ZVUrI4Aw)
+
+- :books: [WebGL Fundamentals](https://webglfundamentals.org/)
+- :books: [Learn WebGL](http://learnwebgl.brown37.net/index.html)
+- :books: [3D Graphics with OpenGL](https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
+- :tv: [WebGL Tutorial](https://youtu.be/kB0ZVUrI4Aw)
    
 1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar 2020
+
+- :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar 2020
