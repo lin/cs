@@ -108,6 +108,7 @@
 
 1. :male_detective: [three.js](https://github.com/mrdoob/three.js/)  3D Graphics Library, Mar 2020
 
+    - :notebook: [WebGL Notes](https://github.com/lin/webgl-notes)
     - :books: [WebGL Fundamentals](https://webglfundamentals.org/)
     - :books: [Learn WebGL](http://learnwebgl.brown37.net/index.html)
     - :books: [3D Graphics with OpenGL](https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
