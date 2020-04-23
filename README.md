@@ -6,7 +6,7 @@
 
 - - -
 
-## Stage 0: Mathematical Logic & Computation Theory
+## Stage I: Mathematical Logic & Computation Theory
 
 1. :exclamation: :books: _[The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413)_, Nov 2017, Jul 2019
 
@@ -18,7 +18,7 @@
 
 1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov 2017
 
-## Stage I: Systems
+## Stage II: Computer Systems
 
 ### Circuit Logic
 
@@ -44,7 +44,7 @@
 
     :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), May 22 2019,  [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun 14 2019
 
-### Compiler (Lexer, Parser & Generator)
+## Stage III: Languages and Compilers
 
 1.  :exclamation: :books: _[Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)_, Feb 2019
 
@@ -74,7 +74,7 @@
 
 1. :man_technologist: Wrote a tiny Mathematica-like computer algeba system for educational purposes. Implemented some rudimental algebra like `Simplify`, `Expand` / `Factor` and `Solve` functionalities. Jan 2020
 
-## Stage II: Algorithms
+## Stage IV: Algorithms and Data Structures
 
 1. :exclamation: :mortar_board: [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) (Coursera), Aug 2019
 
@@ -90,7 +90,7 @@
 
     - :man_technologist: [Selected Implementations](https://github.com/lin/CLRS)
  
-## Stage III: Computer Graphics
+## Stage V: Computer Graphics
 
 ### Font & Typesetting
 
@@ -117,7 +117,17 @@
 1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar 2020
 
     - :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar 2020
-    
+ 
+## Stage VI: Artificial Intelligence & Machine Learning
+
+## Stage VII: Distributed Systems
+
+## Stage VIII: Computer Networking
+
+## Stage IX: Operating Systems
+
+## Stage X: Databases
+
 ## [Degree: UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science)
 
 #### Prefered Path
