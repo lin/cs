@@ -117,3 +117,31 @@
 1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar 2020
 
     - :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar 2020
+    
+### UIUC MCS Courses Plan
+
+---
+
+1. :exclamation: :star: CS 418: Interactive Computer Graphic (Spring 2020) 
+
+1. :exclamation: :cloud: STAT 420: Methods of Applied Statistics (Summer 2020)
+
+1. :exclamation: :star: CS 425: Cloud Computing Concepts / Distributed Systems (Fall 2020)
+
+1. :exclamation: :star: CS 498: Applied Machine Learning (Spring 2021) 
+
+1. :exclamation: :star: CS 412: Introduction to Data Mining (Spring 2021 / Spring 2022) 
+
+1. :exclamation: :fire: CS 598: Cloud Computing Capstone (Summer 2021)
+
+1. :exclamation: :fire: CS 598: Data Mining Capstone (Summer 2021 / Summer 2022) 
+
+1. :exclamation: :fire: STAT 542: Practical Statistical Learning (Fall 2021)
+
+---
+
+1. :question: :star: CS 427: Software Engineering I (Fall 2020)
+
+1. :question: :star: CS 411: Database Systems (Spring 2022)
+
+1. :question: :fire: CS 598 Advanced Bayesian Modeling (Spring 2022)
