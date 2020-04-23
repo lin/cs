@@ -18,7 +18,7 @@
 
 1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov 2017
 
-## Stage I: System
+## Stage I: Systems
 
 ### Circuit Logic
 
@@ -118,9 +118,9 @@
 
     - :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar 2020
     
-### UIUC MCS Courses Plan
+## [Degree: UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science)
 
----
+#### Prefered Path
 
 1. :exclamation: :star: CS 418: Interactive Computer Graphic (Spring 2020) 
 
@@ -138,10 +138,10 @@
 
 1. :exclamation: :fire: STAT 542: Practical Statistical Learning (Fall 2021)
 
----
-
-1. :question: :star: CS 427: Software Engineering I (Fall 2020)
+#### Optional Courses
 
 1. :question: :star: CS 411: Database Systems (Spring 2022)
 
-1. :question: :fire: CS 598 Advanced Bayesian Modeling (Spring 2022)
+1. :question: :fire: CS 598: Advanced Bayesian Modeling (Spring 2022)
+
+1. :question: :star: CS 427: Software Engineering I (Fall 2020)
