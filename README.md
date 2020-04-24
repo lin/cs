@@ -98,15 +98,15 @@
 
 1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul 2019, Dec 2019
 
-1. :male_detective: **KaTeX**: typeset LaTeX using HTML (<table>) & CSS struct
+1. :male_detective: **KaTeX** : typeset LaTeX using HTML (table) and CSS struct
 
-1. :male_detective: **MathJax**: typeset LaTeX into HTML & SVG format
+1. :male_detective: **MathJax** : typeset LaTeX into HTML and SVG format
 
 1. :man_technologist: Wrote a typesetting system which basically is a lighter version of MathJax, Dec 2019
 
-1. :man_technologist: [Fixed a minor bug](https://github.com/mathjax/MathJax-src/pull/412) in MathJax (merged into master) when outputing square root.
-
-### Computer Graphics
+1. :man_technologist: [Fixed a minor bug](https://github.com/mathjax/MathJax-src/pull/412) in MathJax (merged into master) when outputing square root
+ 
+ ### Computer Graphics
 
 1. :mortar_board:UIUC CS 418 [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Feb 2020 - May 2020
 
