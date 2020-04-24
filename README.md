@@ -128,30 +128,32 @@
 
 ## Stage X: Databases
 
-## [Degree: UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science)
+## Master's Degree: [UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science)
+
+:computer: Major Branches of Computer Science, :robot: Artificial Intelligence Related
 
 #### Prefered Path
 
-1. :exclamation: :star: CS 418: Interactive Computer Graphic (Spring 2020) 
+1. :star: :computer: CS 418: Interactive Computer Graphic (Spring 2020) 
 
-1. :exclamation: :cloud: STAT 420: Methods of Applied Statistics (Summer 2020)
+1. :cloud: :robot: STAT 420: Methods of Applied Statistics (Summer 2020)
 
-1. :exclamation: :star: CS 425: Cloud Computing Concepts / Distributed Systems (Fall 2020)
+1. :star: :computer: CS 425: Cloud Computing Concepts / Distributed Systems (Fall 2020)
 
-1. :exclamation: :star: CS 498: Applied Machine Learning (Spring 2021) 
+1. :star: :robot: CS 498: Applied Machine Learning (Spring 2021) 
 
-1. :exclamation: :star: CS 412: Introduction to Data Mining (Spring 2021 / Spring 2022) 
+1. :star: :robot: CS 412: Introduction to Data Mining (Spring 2021 / Spring 2022) 
 
-1. :exclamation: :fire: CS 598: Cloud Computing Capstone (Summer 2021)
+1. :fire: :computer: :question: CS 598: Cloud Computing Capstone (Summer 2021)
 
-1. :exclamation: :fire: CS 598: Data Mining Capstone (Summer 2021 / Summer 2022) 
+1. :fire: :robot:  CS 598: Data Mining Capstone (Summer 2021 / Summer 2022) 
 
-1. :exclamation: :fire: STAT 542: Practical Statistical Learning (Fall 2021)
+1. :fire: :robot:  STAT 542: Practical Statistical Learning (Fall 2021)
 
-#### Optional Courses
+1. :fire: :robot: :question: CS 598: Advanced Bayesian Modeling (Spring 2022)
 
-1. :question: :star: CS 411: Database Systems (Spring 2022)
+#### Additinal Possible Courses
 
-1. :question: :fire: CS 598: Advanced Bayesian Modeling (Spring 2022)
+1. :star: :computer: CS 411: Database Systems (Spring 2022)
 
-1. :question: :star: CS 427: Software Engineering I (Fall 2020)
+1. :star: :computer: CS 427: Software Engineering I (Fall 2020)
