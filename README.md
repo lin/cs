@@ -68,7 +68,7 @@
 
     :man_technologist: Codes: [Rewrite](https://github.com/lin/html-parser-lite)
 
-1. :male_detective: **KaTex:** [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
+1. :male_detective: **KaTeX:** [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
 
 1. :male_detective: **Math.js:** [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
 
@@ -97,6 +97,10 @@
 1. :notebook: [Font Metrics](./imgs/FontMetrics.png), :notebook: [Important Unicode Codepoint](./mds/unicode.md)
 
 1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul 2019, Dec 2019
+
+1. :male_detective: **KaTeX**: typeset LaTeX using HTML (<table>) & CSS struct
+
+1. :male_detective: **MathJax**: typeset LaTeX into HTML & SVG format
 
 1. :man_technologist: Wrote a typesetting system which basically is a lighter version of MathJax, Dec 2019
 
