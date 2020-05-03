@@ -8,25 +8,25 @@
 
 ## Stage I: Mathematical Logic & Computation Theory
 
-1. :exclamation: :books: _[The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413)_, Nov 2017, Jul 2019
+1. :exclamation: :books: _[The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413)_, Nov 2017, Jul. 2019
 
-1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov 2017
+1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov. 2017
 
-1. :books: _[Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/)_, Nov 2017
+1. :books: _[Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/)_, Nov. 2017
 
-1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb 2019
+1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb. 2019
 
-1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov 2017
+1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov. 2017
 
 ## Stage II: Computer Systems
 
 ### Circuit Logic
 
-1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb 18-20 2019
+1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb. 18-20 2019
 
     :man_technologist: [Combinatory Logic](https://github.com/lin/nand2tetris-gates/); [ALU](https://github.com/lin/nand2tetris-alu/); [Register & Memory](https://github.com/lin/nand2tetris-memory/); [CPU](https://github.com/lin/nand2tetris-cpu/)
 
-1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 4), Jul 2019
+1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 4), Jul. 2019
 
 1.  :exclamation: :books: _[Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)_, Nov. 2017
 
@@ -36,23 +36,23 @@
 
 ### Assembly and Virtual Machine
 
-1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar 2019
+1.  :exclamation: :books:  _[Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/)_ (Chapter 2 - 3), Mar. 2019
 
     :man_technologist: [Selected Implementation](https://github.com/lin/csapp)
 
-1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun 2019
+1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun. 2019
 
-    :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), May 22 2019,  [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun 14 2019
+    :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), May 22 2019,  [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun. 14 2019
 
 ## Stage III: Languages and Compilers
 
-1.  :exclamation: :books: _[Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)_, Feb 2019
+1.  :exclamation: :books: _[Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)_, Feb. 2019
 
-1.  :exclamation::mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (Week 2 - 4), Feb 2019
+1.  :exclamation::mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (Week 2 - 4), Feb. 2019
 
-1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun 2019
+1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun. 2019
 
-    :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), Jun 21 2019, [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator), Jun 26-27 2019
+    :man_technologist: Codes: [Project 10 (Parser)](https://github.com/lin/nand2tetris-parser), Jun 21 2019, [Project 11 (Generator)](https://github.com/lin/nand2tetris-generator), Jun. 26-27 2019
 
 1. :male_detective: **JISON:** [Generating Parser using LL LR SLR LALR](https://github.com/zaach/jison) used in Jison, May 2019
 
@@ -60,23 +60,23 @@
 
     :notebook: [How to distinguish LL LR SLR LALR?](./mds/parsers.md)
 
-1. :male_detective: **Babel:** [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun 2019
+1. :male_detective: **Babel:** [Babel Parser](https://github.com/babel/babel/tree/master/packages/babel-parser), [Babel Traverse](https://github.com/babel/babel/tree/master/packages/babel-traverse), [Babel Generator](https://github.com/babel/babel/tree/master/packages/babel-generator), Jun. 2019
 
     Babel Parser is for parsing JavaScript, using Recursive Descent Algorithm.
 
-1. :male_detective: **Vue.js:** [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun 2019
+1. :male_detective: **Vue.js:** [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun. 2019
 
     :man_technologist: Codes: [Rewrite](https://github.com/lin/html-parser-lite)
 
-1. :male_detective: **KaTeX:** [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun 2019
+1. :male_detective: **KaTeX:** [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun. 2019
 
-1. :male_detective: **Math.js:** [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun 2019
+1. :male_detective: **Math.js:** [Parser for Mathematical Expression](https://github.com/josdejong/mathjs) used in Math.js, Jun. 2019
 
-1. :man_technologist: Wrote a tiny Mathematica-like computer algeba system for educational purposes. Implemented some rudimental algebra like `Simplify`, `Expand` / `Factor` and `Solve` functionalities. Jan 2020
+1. :man_technologist: Wrote a tiny Mathematica-like computer algeba system for educational purposes. Implemented some rudimental algebra like `Simplify`, `Expand` / `Factor` and `Solve` functionalities. Jan. 2020
 
 ## Stage IV: Algorithms and Data Structures
 
-1. :exclamation: :mortar_board: [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) (Coursera), Aug 2019
+1. :exclamation: :mortar_board: [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals) (Coursera), Aug. 2019
 
     - [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1/)
 
@@ -96,21 +96,21 @@
 
 1. :notebook: [Font Metrics](./imgs/FontMetrics.png), :notebook: [Important Unicode Codepoint](./mds/unicode.md)
 
-1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul 2019, Dec 2019
+1. :books: _[The TeXbook](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489)_, Jul. 2019, Dec. 2019
 
 1. :male_detective: **KaTeX** : typeset LaTeX using HTML (table) and CSS struct
 
 1. :male_detective: **MathJax** : typeset LaTeX into HTML and SVG format
 
-1. :man_technologist: Wrote a typesetting system which basically is a lighter version of MathJax, Dec 2019
+1. :man_technologist: Wrote a typesetting system which basically is a lighter version of MathJax, Dec. 2019
 
 1. :man_technologist: [Fixed a minor bug](https://github.com/mathjax/MathJax-src/pull/412) in MathJax (merged into master) when outputing square root
  
  ### Computer Graphics
 
-1. :mortar_board:UIUC CS 418 [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Feb 2020 - May 2020
+1. :mortar_board:UIUC CS 418 [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Feb. 2020 - May 2020
 
-1. :male_detective: [three.js](https://github.com/mrdoob/three.js/)  3D Graphics Library, Mar 2020
+1. :male_detective: [three.js](https://github.com/mrdoob/three.js/)  3D Graphics Library, Mar. 2020
 
     - :notebook: [WebGL Notes](https://github.com/lin/webgl-notes)
     - :books: [WebGL Fundamentals](https://webglfundamentals.org/)
@@ -118,15 +118,17 @@
     - :books: [3D Graphics with OpenGL](https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html)
     - :tv: [WebGL Tutorial](https://youtu.be/kB0ZVUrI4Aw)
    
-1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar 2020
+1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar. 2020
 
-    - :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar 2020
+    - :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar. 2020
  
 ## Stage VI: Artificial Intelligence & Machine Learning
 
-## Stage VII: Distributed Systems
+## Stage VII: Computer Networking 
 
-## Stage VIII: Computer Networking
+1. :tv: [Learn how the Internet works](https://eater.net/inet), May 2020
+
+## Stage VIII: Distributed Systems
 
 ## Stage IX: Operating Systems
 
