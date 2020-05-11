@@ -130,7 +130,7 @@
  
 ## Stage VI: Artificial Intelligence & Machine Learning
 
-1. :books: (Artificial Intelligence: A Modern Approach)[http://aima.cs.berkeley.edu/]
+1. :books: [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 1. :mortar_board: [Artificial Intelligence (MIT 2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
 1. :mortar_board: [Artificial Intelligence (Columbia edX)](https://www.edx.org/course/artificial-intelligence-ai)
 
