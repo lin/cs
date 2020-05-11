@@ -8,15 +8,21 @@
 
 ## Stage I: Mathematical Logic & Computation Theory
 
-1. :exclamation: :books: _[The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413)_, Nov 2017, Jul. 2019
+1. :exclamation: :books: [The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413), Nov 2017, Jul. 2019
 
-1. :books: _[The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/)_, Nov. 2017
+1. :books: [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/), Nov. 2017
 
-1. :books: _[Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/)_, Nov. 2017
+1. :books: [Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/), Nov. 2017
 
 1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb. 2019
 
 1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov. 2017
+
+1. :books: [Computers and Intractability](https://www.amazon.com/Computers-Intractability-NP-Completeness-Mathematical-Sciences/dp/0716710455)
+
+1. :books: [Introduction to Automata Theory, Languages, and Computation](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/0321455363)
+
+1. :books: [Elements of Information Theory](https://www.amazon.com/Elements-Information-Theory-Telecommunications-Processing/dp/0471241954)
 
 ## Stage II: Computer Systems
 
@@ -123,6 +129,10 @@
     - :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar. 2020
  
 ## Stage VI: Artificial Intelligence & Machine Learning
+
+1. :books: (Artificial Intelligence: A Modern Approach)[http://aima.cs.berkeley.edu/]
+1. :mortar_board: [Artificial Intelligence (MIT 2010)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
+1. :mortar_board: [Artificial Intelligence (Columbia edX)](https://www.edx.org/course/artificial-intelligence-ai)
 
 ## Stage VII: Computer Networking 
 
