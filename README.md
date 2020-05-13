@@ -144,6 +144,8 @@
 
 ## Stage IX: Operating Systems
 
+1.:mortar_board: [The Missing Semester - MIT](https://missing.csail.mit.edu/)
+
 ## Stage X: Databases
 
 ## Master's Degree: [UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science)
