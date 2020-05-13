@@ -144,7 +144,7 @@
 
 ## Stage IX: Operating Systems
 
-1.:mortar_board: [The Missing Semester - MIT](https://missing.csail.mit.edu/)
+1. :mortar_board: [The Missing Semester - MIT](https://missing.csail.mit.edu/)
 
 ## Stage X: Databases
 
