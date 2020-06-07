@@ -155,7 +155,7 @@
 
 #### Prefered Path
 
-1. :star: :computer: CS 418: Interactive Computer Graphic (Spring 2020) 
+1. :star: :computer: CS 418: Interactive Computer Graphic (Spring 2020, A+, 98%) 
 
 1. :cloud: :robot: STAT 420: Methods of Applied Statistics (Summer 2020)
 
