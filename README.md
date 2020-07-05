@@ -149,7 +149,7 @@
 
 ## Stage X: Databases
 
-## Master's Degree: [UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs-program/online-master-computer-science)
+## Master's Degree: [UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)
 
 :computer: Major Branches of Computer Science, :robot: Artificial Intelligence Related
 
