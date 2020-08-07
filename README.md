@@ -161,24 +161,26 @@
 
 1. :fire: :robot:  STAT 542: Practical Statistical Learning (Fall 2020)
 
-1. :star: :computer: CS 425: Cloud Computing Concepts / Distributed Systems (Fall 2020)
+1. :star: :computer: CS 427: Cloud Networking (Fall 2021)
 
 1. :star: :computer: CS 411: Database Systems (Spring 2021)
 
 1. :star: :robot: CS 412: Introduction to Data Mining (Spring 2021) 
 
-1. :fire: :computer: CS 598: Cloud Computing Capstone (Summer 2021)
+1. :fire: :robot: CS 598: Advanced Bayesian Modeling (Spring 2021 / Spring 2022)
 
 1. :fire: :robot:  CS 598: Data Mining Capstone (Summer 2021) 
 
 #### Additinal Possible Courses
 
-1. :star: :computer: CS 427: Software Engineering I (Fall 2021)
+1. :fire: :computer: CS 598: Cloud Computing Capstone (Summer 2021)
 
-1. :fire: :robot: CS 598: Advanced Bayesian Modeling (Spring 2021)
+1. :star: :computer: CS 425: Cloud Computing Concepts / Distributed Systems (Fall 2020)
 
 #### Already Mastered
 
 1. :star: :computer: CS 421 Programming Languages and Compilers  (Summer 2021)
 
 1. :star: :robot: CS 498: Applied Machine Learning (Spring 2021) 
+
+1. :star: :computer: CS 427: Software Engineering I (Fall 2021)
