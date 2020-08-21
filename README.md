@@ -169,6 +169,8 @@
 
 1. :fire: :robot: CS 598: Data Mining Capstone (Summer 2021) 
 
+1. :star: :computer: CS 425: Distributed Systems (Fall 2021)
+
 #### Additinal Possible Courses
 
 1. :star: :computer: CS 411: Database Systems (Spring)
@@ -176,8 +178,6 @@
 1. :star: :computer: CS 421: Programming Languages and Compilers  (Summer)
 
 1. :fire: :computer: CS 598: Cloud Computing Capstone (Summer)
-
-1. :star: :computer: CS 425: Cloud Computing Concepts / Distributed Systems (Fall)
 
 1. :star: :computer: CS 427: Software Engineering (Fall)
 
