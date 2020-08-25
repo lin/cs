@@ -137,15 +137,17 @@
 1. :mortar_board: [Introduction to Artificial Intelligence with Python (Harvard)](https://itunes.apple.com/us/course/cs50s-introduction-to-artificial-intelligence-python/id1505432709), May 2020
 1. :mortar_board: STAT 420: Methods of Applied Statistics, Summer 2020
 1. :books: [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/), Summer 2020
+1. :books: [Probability and Statistics for Computer Science (Forsyth)](https://www.springer.com/gp/book/9783319644097), Fall 2020
 1. :mortar_board: CS 498: [Applied Machine Learning](http://luthuli.cs.uiuc.edu/~daf/courses/AML-20-Spring/aml-home.html), Fall 2020
 1. :books: [Applied Machine Learning (Forsyth)](https://www.springer.com/gp/book/9783030181130), Fall 2020
 1. :mortar_board: CS 598: Practical Statistical Learning, Fall 2020
 1. :books: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/), Fall 2020
 1. :books: [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/), Fall 2020
 1. :books: [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732), Fall 2020
-1. :mortar_board: [Machine Learing (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
-1. :mortar_board: [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
-1. :books: [Deep Learning (Goodfellow)](http://www.deeplearningbook.org/)
+1. :books: [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Fall 2020
+1. :mortar_board: [Machine Learing (Andrew Ng)](https://www.coursera.org/learn/machine-learning), Fall 2020
+1. :mortar_board: [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning), Fall 2020
+1. :books: [Deep Learning (Goodfellow)](http://www.deeplearningbook.org/), Fall 2020
 
 ## Stage VII: Computer Networking 
 
