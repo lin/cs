@@ -18,13 +18,13 @@ Internalize the following subjects:
 
 ## Stage I: Mathematical Logic & Computation Theory
 
-1. :exclamation: :books: [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X), Feb. 2019
+1. :exclamation: :books: [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X), Feb. 2019, Sep. 2020
 
-1. :exclamation: :books: [The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413), Nov 2017, Jul. 2019
+1. :exclamation: :books: [The Logic Book](https://www.amazon.com/Merrie-Bergmann-Associated-Professor-Emeritus/dp/0078038413), Nov. 2017, Jul. 2019, Sep. 2020
 
-1. :books: [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/), Nov. 2017
+1. :books: [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/), Nov. 2017, Sep. 2020
 
-1. :books: [Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/), Nov. 2017
+1. :books: [Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/), Nov. 2017, Sep. 2020
 
 1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb. 2019
 
