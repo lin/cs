@@ -6,6 +6,16 @@
 
 - - -
 
+## Core Goals:
+
+Internalize the following subjects:
+
+1. :electric_plug: Computer Systems
+1. :balance_scale: Mathematical Logic
+1. :abacus:	Theory of Computation
+1. :robot: Artificial Intelligence
+
+
 ## Stage I: Mathematical Logic & Computation Theory
 
 1. :exclamation: :books: [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X), Feb. 2019
