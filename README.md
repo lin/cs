@@ -24,6 +24,8 @@ Internalize the following subjects:
 
 1. :books: [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/), Nov. 2017, Sep. 2020
 
+    :man_technologist: [Selected Implementation: Simulate Turing Machine using JavaScript](https://github.com/lin/AnnotatedTuring)
+
 1. :books: [Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/), Nov. 2017, Sep. 2020
 
 1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb. 2019
