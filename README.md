@@ -160,14 +160,14 @@ Internalize the following subjects:
 
 1. :mortar_board: CS 498: [Applied Machine Learning](http://luthuli.cs.uiuc.edu/~daf/courses/AML-20-Spring/aml-home.html), Fall 2020
 1. :books: [Applied Machine Learning (Forsyth)](https://www.springer.com/gp/book/9783030181130), Fall 2020
-1. :mortar_board: [Machine Learing (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
+1. :books: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/), Fall 2020
+1. :books: [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Fall 2020
 1. :books: [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732)
-1. :books: [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
+1. :mortar_board: [Machine Learing (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 
 ### Statistical Learning
 
 1. :mortar_board: CS 598: [Practical Statistical Learning](https://publish.illinois.edu/liangf/teaching/stat-542/)
-1. :books: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 1. :books: [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ### Deep Learning 
