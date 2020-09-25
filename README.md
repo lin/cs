@@ -10,10 +10,10 @@
 
 Internalize the following subjects:
 
-1. :electric_plug: Computer Systems
-1. :balance_scale: Mathematical Logic
-1. :abacus:	Theory of Computation
-1. :robot: Artificial Intelligence
+1. :balance_scale: - Mathematical Logic
+1. :abacus:	- Theory of Computation
+1. :electric_plug: - Computer Systems
+1. :robot: - Artificial Intelligence
 
 
 ## Stage I: Mathematical Logic & Computation Theory
