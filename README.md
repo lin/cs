@@ -197,7 +197,7 @@ Internalize the following subjects:
 
 1. :cloud: :robot: STAT 420: Methods of Applied Statistics (Summer 2020, A+, 99.5%)
 
-1. :star: :robot: CS 498: Applied Machine Learning (Fall 2020) 
+1. :star: :robot: CS 498: Applied Machine Learning (Fall 2020, A, 100%) 
 
 1. :star: :robot: CS 412: Introduction to Data Mining (Spring 2021) 
 
