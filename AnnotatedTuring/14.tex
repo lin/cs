@@ -1,0 +1,160 @@
+\documentclass{article}
+\usepackage{xeCJK}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amsbsy}
+\usepackage{comment}
+\usepackage{setspace}
+\usepackage{enumitem}
+
+\title{Annotated Turing - Chapter 14}
+\author{Yingkui Lin}
+
+\begin{document}
+
+For the Example I machine,
+\[
+\textrm{Des}(\mathcal{M})
+\]
+
+is an abbreviation for:
+
+\begin{align*}
+  \textrm{Inst}\{q_1S_0S_1Rq_2\} \\
+  \,\&\, \textrm{Inst}\{q_2S_0S_1Rq_3\} \\
+  \,\&\,  \textrm{Inst}\{q_3S_0S_2Rq_4\}  \\
+  \,\&\, \textrm{Inst}\{q_4S_0S_0Rq_1\}   
+\end{align*}
+
+which is an abbreviation for:
+
+\begin{align*}
+  \forall x \forall y \forall x' \forall y' \{
+    & R_0xy \,\&\, Ixy  \,\&\, K_1 x  \,\&\,  Fxx'  \,\&\,  Fyy' \\
+    \rightarrow &\, Ix'y' \,\&\,  R_1x'y \,\&\, K_2x' \\
+    & \,\&\, \forall z \left[ Fzy' \vee
+      \left[
+        \left( R_0xz \rightarrow R_0x'z \right) \,\&\, 
+        \left( R_1xz \rightarrow R_1x'z \right) \,\&\, 
+        \left( R_2xz \rightarrow R_2x'z \right)
+      \right]
+    \right]
+  \} \,\&\, \\
+  \forall x \forall y \forall x' \forall y' \{
+    & R_0xy \,\&\, Ixy  \,\&\, K_2 x  \,\&\,  Fxx'  \,\&\,  Fyy' \\
+    \rightarrow &\, Ix'y' \,\&\,  R_1x'y \,\&\, K_3x' \\
+    & \,\&\, \forall z \left[ Fzy' \vee
+      \left[
+        \left( R_0xz \rightarrow R_0x'z \right) \,\&\, 
+        \left( R_1xz \rightarrow R_1x'z \right) \,\&\, 
+        \left( R_2xz \rightarrow R_2x'z \right)
+      \right]
+    \right]
+  \} \,\&\, \\
+  \forall x \forall y \forall x' \forall y' \{
+    & R_0xy \,\&\, Ixy  \,\&\, K_3 x  \,\&\,  Fxx'  \,\&\,  Fyy' \\
+    \rightarrow &\, Ix'y' \,\&\,  R_2x'y \,\&\, K_4x' \\
+    & \,\&\, \forall z \left[ Fzy' \vee
+      \left[
+        \left( R_0xz \rightarrow R_0x'z \right) \,\&\, 
+        \left( R_1xz \rightarrow R_1x'z \right) \,\&\, 
+        \left( R_2xz \rightarrow R_2x'z \right)
+      \right]
+    \right]
+  \} \,\&\, \\
+  \forall x \forall y \forall x' \forall y' \{
+    & R_0xy \,\&\, Ixy  \,\&\, K_4 x  \,\&\,  Fxx'  \,\&\,  Fyy' \\
+    \rightarrow &\, Ix'y' \,\&\,  R_0x'y \,\&\, K_1x' \\
+    & \,\&\, \forall z \left[ Fzy' \vee
+      \left[
+        \left( R_0xz \rightarrow R_0x'z \right) \,\&\, 
+        \left( R_1xz \rightarrow R_1x'z \right) \,\&\, 
+        \left( R_2xz \rightarrow R_2x'z \right)
+      \right]
+    \right]
+  \}
+\end{align*}
+
+And
+\[
+  \mathcal{Q}
+\]
+
+is an abbreviation for:
+
+\begin{align*}
+  \forall x \exists w \forall y \forall z \{
+    & Fxw \,\&\, \left( Fxy \rightarrow Gxy \right) \\
+    & \left( Fxz \,\&\, Gzy \rightarrow Gxy \right) \\
+    & \left[
+      Gzx \vee \left(Gxy \,\&\, Fyz \right) \vee \left(Fxy \,\&\, Fzy \right) \rightarrow \sim Fxz
+    \right]
+  \}
+\end{align*}
+
+And now 
+\[
+  \textrm{Un}(\mathcal{M})
+\]
+
+is an abbreviation for:
+
+\begin{align*}
+  \exists u \{\\
+  \forall x \exists w \forall y \forall z \{
+    & Fxw \,\&\, \left( Fxy \rightarrow Gxy \right) \\
+    & \left( Fxz \,\&\, Gzy \rightarrow Gxy \right) \\
+    & \left[
+      Gzx \vee \left(Gxy \,\&\, Fyz \right) \vee \left(Fxy \,\&\, Fzy \right) \rightarrow \sim Fxz
+    \right]\} \,\&\, \forall y  R_0 uy \,\&\, Iuu \,\&\, K_1u \,\&\, \\
+    \forall x \forall y \forall x' \forall y' \{
+    & R_0xy \,\&\, Ixy  \,\&\, K_1 x  \,\&\,  Fxx'  \,\&\,  Fyy' \\
+    \rightarrow &\, Ix'y' \,\&\,  R_1x'y \,\&\, K_2x' \\
+    & \,\&\, \forall z \left[ Fzy' \vee
+      \left[
+        \left( R_0xz \rightarrow R_0x'z \right) \,\&\, 
+        \left( R_1xz \rightarrow R_1x'z \right) \,\&\, 
+        \left( R_2xz \rightarrow R_2x'z \right)
+      \right]
+    \right]
+  \} \,\&\, \\
+  \forall x \forall y \forall x' \forall y' \{
+    & R_0xy \,\&\, Ixy  \,\&\, K_2 x  \,\&\,  Fxx'  \,\&\,  Fyy' \\
+    \rightarrow &\, Ix'y' \,\&\,  R_1x'y \,\&\, K_3x' \\
+    & \,\&\, \forall z \left[ Fzy' \vee
+      \left[
+        \left( R_0xz \rightarrow R_0x'z \right) \,\&\, 
+        \left( R_1xz \rightarrow R_1x'z \right) \,\&\, 
+        \left( R_2xz \rightarrow R_2x'z \right)
+      \right]
+    \right]
+  \} \,\&\, \\
+  \forall x \forall y \forall x' \forall y' \{
+    & R_0xy \,\&\, Ixy  \,\&\, K_3 x  \,\&\,  Fxx'  \,\&\,  Fyy' \\
+    \rightarrow &\, Ix'y' \,\&\,  R_2x'y \,\&\, K_4x' \\
+    & \,\&\, \forall z \left[ Fzy' \vee
+      \left[
+        \left( R_0xz \rightarrow R_0x'z \right) \,\&\, 
+        \left( R_1xz \rightarrow R_1x'z \right) \,\&\, 
+        \left( R_2xz \rightarrow R_2x'z \right)
+      \right]
+    \right]
+  \} \,\&\, \\
+  \forall x \forall y \forall x' \forall y' \{
+    & R_0xy \,\&\, Ixy  \,\&\, K_4 x  \,\&\,  Fxx'  \,\&\,  Fyy' \\
+    \rightarrow &\, Ix'y' \,\&\,  R_0x'y \,\&\, K_1x' \\
+    & \,\&\, \forall z \left[ Fzy' \vee
+      \left[
+        \left( R_0xz \rightarrow R_0x'z \right) \,\&\, 
+        \left( R_1xz \rightarrow R_1x'z \right) \,\&\, 
+        \left( R_2xz \rightarrow R_2x'z \right)
+      \right]
+    \right]
+  \} \\
+  \} \rightarrow \exists s \exists t & R_1st
+\end{align*}
+
+This is one of the set of formulas that can't be mechanically decided.
+
+\end{document}

@@ -1,0 +1,23 @@
+{
+  "name": "katex-lite",
+  "version": "1.0.0",
+  "description": "KaTex Lite",
+  "main": "katex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lin/katex-lite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lin/katex-lite/issues"
+  },
+  "homepage": "https://github.com/lin/katex-lite#readme",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "katex": "^0.10.2"
+  }
+}

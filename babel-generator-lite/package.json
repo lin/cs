@@ -1,0 +1,19 @@
+{
+  "name": "lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/parser": "^7.4.5",
+    "@babel/traverse": "^7.4.5",
+    "@babel/types": "^7.4.4",
+    "lodash": "^4.17.11"
+  }
+}

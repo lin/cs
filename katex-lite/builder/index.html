@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Test Font</title>
+    <style media="screen">
+      @font-face {
+        font-family: main;
+        src: url(KaTex_Main-Regular.ttf);
+      }
+
+      @font-face {
+        font-family: size2;
+        src: url(KaTex_Size2-Regular.ttf);
+      }
+
+      @font-face {
+        font-family: math;
+        src: url(KaTex_Math-Regular.ttf);
+      }
+
+      body {
+        font-size: 1.21em
+      }
+
+      .text {
+        font-family: main
+      }
+
+      .math {
+        font-family: math
+      }
+
+      .large {
+        font-family: size2
+      }
+    </style>
+  </head>
+  <body>
+    <span class="math" style="margin-right: 0.10764em;">f</span><!--
+ --><span class="text">(</span><span class="math">x</span><!--
+ --><span class="text">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><!--
+ --><span class="text">=</span><span class="mspace" style="margin-right: 0.277778em;"></span><!--
+ --><span class="large" style="margin-right: 0.44445em; position: relative; top: -0.001125em;">∫</span><!--
+ --><span class="math">x</span><span class="mspace" style="margin-right: 0.166667em;"></span><!--
+ --><span class="math">d</span><!--
+ --><span class="math">x</span>
+  </body>
+</html>
