@@ -199,7 +199,7 @@ Internalize the following subjects:
 
 1. :star: :robot: CS 498: Applied Machine Learning (Fall 2020, A, 100%) 
 
-1. :fire: :robot: CS 598: Advanced Bayesian Modeling (Spring 2021)
+1. :fire: :robot: CS 598: Advanced Bayesian Modeling (Spring 2021, A+, 96.9%)
 
 1. :fire: :robot: STAT 542: Practical Statistical Learning (Fall 2021)
 
