@@ -203,11 +203,13 @@ Internalize the following subjects:
 
 1. :fire: :robot: STAT 542: Practical Statistical Learning (Fall 2021)
 
+1. :star: :computer: CS 427: Cloud Networking (Fall 2021)
+
 1. :star: :robot: CS 412: Introduction to Data Mining (Spring 2022) 
 
-1. :fire: :robot: CS 598: Data Mining Capstone (Summer 2022) 
+1. :star: :robot: CS 598: Deep Learning for Healthcare (Spring 2022) 
 
-1. :star: :computer: CS 427: Cloud Networking (Fall 2021 / Fall 2022)
+1. :fire: :robot: CS 598: Data Mining Capstone (Summer 2022, Maybe) 
 
 #### Additinal Possible Courses
 
@@ -219,4 +221,4 @@ Internalize the following subjects:
 
 1. :star: :computer: CS 427: Software Engineering (Fall)
 
-1. :star: :computer: CS 425: Distributed Systems (Fall 2022)
+1. :star: :computer: CS 425: Distributed Systems (Fall)
