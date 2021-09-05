@@ -201,19 +201,19 @@ Internalize the following subjects:
 
 1. :fire: :robot: CS 598: Advanced Bayesian Modeling (Spring 2021, A+, 96.9%)
 
-1. :fire: :robot: STAT 542: Practical Statistical Learning (Fall 2021)
-
-1. :star: :computer: CS 427: Cloud Networking (Fall 2021)
+1. :star: :computer: CS 435: Cloud Networking (Fall 2021)
 
 1. :star: :robot: CS 412: Introduction to Data Mining (Spring 2022) 
 
-1. :star: :robot: CS 598: Deep Learning for Healthcare (Spring 2022) 
+1. :star: :robot: CS 598: Deep Learning for Healthcare (Spring 2022, Maybe) 
 
 1. :fire: :robot: CS 598: Data Mining Capstone (Summer 2022, Maybe) 
 
-#### Additinal Possible Courses
+1. :fire: :robot: STAT 542: Practical Statistical Learning (Fall 2022)
 
-1. :star: :computer: CS 411: Database Systems (Spring)
+1. :star: :computer: CS 411: Database Systems (Spring 2023, if 435 turns out to be great)
+
+#### Additinal Possible Courses
 
 1. :star: :computer: CS 421: Programming Languages and Compilers  (Summer)
 
