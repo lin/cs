@@ -128,7 +128,7 @@ Internalize the following subjects:
  
 ### Computer Graphics
 
-1. :mortar_board:UIUC CS 418 [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Spring 2020
+1. :mortar_board:UIUC CS 418: [Interactive Computer Graphics](https://www.coursera.org/learn/cs418-interactive-computer-graphics/), Spring 2020
 
 1. :male_detective: [three.js](https://github.com/mrdoob/three.js/)  3D Graphics Library, Mar. 2020
 
@@ -152,13 +152,14 @@ Internalize the following subjects:
 
 ### Probability and Statistics
 
-1. :mortar_board: STAT 420: [Methods of Applied Statistics](https://www.coursera.org/learn/stat-420/), Summer 2020
-1. :books: [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/), Summer 2020
-1. :books: [Probability and Statistics for Computer Science (Forsyth)](https://www.springer.com/gp/book/9783319644097), Fall 2020
+1. :mortar_board: UIUC STAT 420: [Methods of Applied Statistics](https://www.coursera.org/learn/stat-420/), Summer 2020
+2. :mortar_board: UIUC CS 598: Advanced Bayesian Modeling, Spring 2021
+3. :books: [Applied Statistics with R](https://daviddalpiaz.github.io/appliedstats/), Summer 2020
+4. :books: [Probability and Statistics for Computer Science (Forsyth)](https://www.springer.com/gp/book/9783319644097), Fall 2020
 
 ### Machine Learning
 
-1. :mortar_board: CS 498: [Applied Machine Learning](http://luthuli.cs.uiuc.edu/~daf/courses/AML-20-Spring/aml-home.html), Fall 2020
+1. :mortar_board: UIUC CS 498: [Applied Machine Learning](http://luthuli.cs.uiuc.edu/~daf/courses/AML-20-Spring/aml-home.html), Fall 2020
 1. :books: [Applied Machine Learning (Forsyth)](https://www.springer.com/gp/book/9783030181130), Fall 2020
 1. :books: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/), Fall 2020
 1. :books: [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Fall 2020
@@ -167,7 +168,7 @@ Internalize the following subjects:
 
 ### Statistical Learning
 
-1. :mortar_board: CS 598: [Practical Statistical Learning](https://publish.illinois.edu/liangf/teaching/stat-542/)
+1. :mortar_board: UIUC CS 598: [Practical Statistical Learning](https://publish.illinois.edu/liangf/teaching/stat-542/)
 1. :books: [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ### Deep Learning 
@@ -175,17 +176,23 @@ Internalize the following subjects:
 1. :mortar_board: [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
 1. :books: [Deep Learning (Goodfellow)](http://www.deeplearningbook.org/)
 
-## Stage VII: Computer Networking 
+## Stage VII: Computer Networking & Distributed Systems
+
+1. :mortar_board: UIUC CS 435: [Cloud Networking](https://www.coursera.org/learn/cloud-networking), Fall 2021
 
 1. :tv: [Learn how the Internet works](https://eater.net/inet), Aug 2020
 
-## Stage VIII: Distributed Systems
+1. :mortar_board: [Cloud Computing](https://www.coursera.org/specializations/cloud-computing), which includes Cloud Computing Applications and Cloud Computing Concepts in UIUC courses, and maybe I won't enroll in these two courses, since they are provided on Coursera.
 
-## Stage IX: Operating Systems
+## Stage VIII: Operating Systems
+
+1. :mortar_board: [操作系统原理（Operating Systems）](https://www.coursera.org/learn/os-pku), Jan 2022
 
 1. :mortar_board: [The Missing Semester - MIT](https://missing.csail.mit.edu/)
 
-## Stage X: Databases
+## Stage IX: Databases
+
+1. :mortar_board: [Database Systems](https://www.coursera.org/specializations/database-systems)
 
 ## Master's Degree: [UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)
 
@@ -213,8 +220,8 @@ Internalize the following subjects:
 
 1. ⏸  🔥  STAT 542: Practical Statistical Learning (Fall 2021)
 
-1. ⏸  ⭐️ 【Networking】CS 498 Cloud Computing Applications (Spring 2022)
+1. ⏸  ⭐️ 【Networking】CS 498 Cloud Computing Applications (Spring 2022), maybe Coursera
 
-1. ⭐️ 【Networking】CS 425: Distributed Systems (Fall 2022)
+1. ⭐️ 【Networking】CS 425: Distributed Systems (Fall 2022), maybe Coursera
 
 1. ⭐️ 【Database】 CS 411: Database Systems (Spring)
