@@ -212,16 +212,11 @@ Internalize the following subjects:
 
 1. ⏸  ⭐️ 【Database】 CS 412: Introduction to Data Mining (Spring 2022) 
 
+
+And two of the following three:
+
 1. ⏸  🔥  CS 412: Deep Learning for Healthcare (Spring 2022) 
 
 1. ⏸  🔥  CS 598: Data Mining Capstone (Summer 2022) 
 
-### Additinal Possible Courses
-
-1. ⏸  🔥  STAT 542: Practical Statistical Learning (Fall 2021)
-
-1. ⏸  ⭐️ 【Networking】CS 498 Cloud Computing Applications (Spring 2022), maybe Coursera
-
-1. ⭐️ 【Networking】CS 425: Distributed Systems (Fall 2022), maybe Coursera
-
-1. ⭐️ 【Database】 CS 411: Database Systems (Spring)
+1. ⏸  🔥  STAT 542: Practical Statistical Learning (Fall 2022)
