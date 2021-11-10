@@ -191,34 +191,30 @@ Internalize the following subjects:
 
 :computer: Major Branches of Computer Science, :robot: Artificial Intelligence Related
 
-#### Prefered Path
+### Prefered Path
 
-1. :star: :computer: CS 418: Interactive Computer Graphic (Spring 2020, A+, 98%) 
+1. ✅  ⭐️ 【Graphics】CS 418: Interactive Computer Graphic (Spring 2020, A+, 98%) 
 
-1. :cloud: :robot: STAT 420: Methods of Applied Statistics (Summer 2020, A+, 99.5%)
+1. ✅  🕹️ STAT 420: Methods of Applied Statistics (Summer 2020, A+, 99.5%)
 
-1. :star: :robot: CS 498: Applied Machine Learning (Fall 2020, A, 100%) 
+1. ✅  ⭐️ 【A.I.】 CS 498: Applied Machine Learning (Fall 2020, A, 100%) 
 
-1. :fire: :robot: CS 598: Advanced Bayesian Modeling (Spring 2021, A+, 96.9%)
+1. ✅  🔥  CS 598: Advanced Bayesian Modeling (Spring 2021, A+, 96.9%)
 
-1. :star: :computer: CS 435: Cloud Networking (Fall 2021)
+1. ✅  ⭐️ 【Networking】CS 427: Cloud Networking (Fall 2021 / Fall 2022)
 
-1. :star: :robot: CS 412: Introduction to Data Mining (Spring 2022) 
+1. ⏸  ⭐️ 【Database】 CS 412: Introduction to Data Mining (Spring 2022) 
 
-1. :star: :robot: CS 598: Deep Learning for Healthcare (Spring 2022, Maybe) 
+1. ⏸  🔥  CS 412: Deep Learning for Healthcare (Spring 2022) 
 
-1. :fire: :robot: CS 598: Data Mining Capstone (Summer 2022, Maybe) 
+1. ⏸  🔥  CS 598: Data Mining Capstone (Summer 2022) 
 
-1. :fire: :robot: STAT 542: Practical Statistical Learning (Fall 2022)
+### Additinal Possible Courses
 
-1. :star: :computer: CS 411: Database Systems (Spring 2023, if 435 turns out to be great)
+1. ⏸  🔥  STAT 542: Practical Statistical Learning (Fall 2021)
 
-#### Additinal Possible Courses
+1. ⏸  ⭐️ 【Networking】CS 498 Cloud Computing Applications (Spring 2022)
 
-1. :star: :computer: CS 421: Programming Languages and Compilers  (Summer)
+1. ⭐️ 【Networking】CS 425: Distributed Systems (Fall 2022)
 
-1. :fire: :computer: CS 598: Cloud Computing Capstone (Summer)
-
-1. :star: :computer: CS 427: Software Engineering (Fall)
-
-1. :star: :computer: CS 425: Distributed Systems (Fall)
+1. ⭐️ 【Database】 CS 411: Database Systems (Spring)
