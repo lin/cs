@@ -200,23 +200,23 @@ Internalize the following subjects:
 
 ### Prefered Path
 
-1. ✅  ⭐️ 【Graphics】CS 418: Interactive Computer Graphic (Spring 2020, A+, 98%) 
+1. ✅  ⭐️ CS 418: Interactive Computer Graphic (Spring 2020, A+, 98%) 
 
 1. ✅  🕹️ STAT 420: Methods of Applied Statistics (Summer 2020, A+, 99.5%)
 
-1. ✅  ⭐️ 【A.I.】 CS 498: Applied Machine Learning (Fall 2020, A, 100%) 
+1. ✅  ⭐️ CS 498: Applied Machine Learning (Fall 2020, A, 100%) 
 
-1. ✅  🔥  CS 598: Advanced Bayesian Modeling (Spring 2021, A+, 96.9%)
+1. ✅  🔥 CS 598: Advanced Bayesian Modeling (Spring 2021, A+, 96.9%)
 
-1. ✅  ⭐️ 【Networking】CS 427: Cloud Networking (Fall 2021 / Fall 2022)
+1. ✅  ⭐️ CS 435: Cloud Networking (Fall 2021, A, 96.44%)
 
-1. ⏸  ⭐️ 【Database】 CS 412: Introduction to Data Mining (Spring 2022) 
+1. ⏸  ⭐️ CS 412: Introduction to Data Mining (Spring 2022) 
+
+1. ⏸  🔥 CS 598: Data Mining Capstone (Summer 2022) 
 
 
-And two of the following three:
+And one of the following two:
 
 1. ⏸  🔥  CS 412: Deep Learning for Healthcare (Spring 2022) 
-
-1. ⏸  🔥  CS 598: Data Mining Capstone (Summer 2022) 
 
 1. ⏸  🔥  STAT 542: Practical Statistical Learning (Fall 2022)
