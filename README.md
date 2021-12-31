@@ -217,6 +217,6 @@ Internalize the following subjects:
 
 And one of the following two:
 
-1. ⏸  🔥  CS 412: Deep Learning for Healthcare (Spring 2022) 
+1. ⏸  🔥  CS 598: Deep Learning for Healthcare (Spring 2022) 
 
 1. ⏸  🔥  STAT 542: Practical Statistical Learning (Fall 2022)
