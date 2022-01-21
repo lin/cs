@@ -24,21 +24,21 @@ Internalize the following subjects:
 
 1. :books: [The Annotated Turing](https://www.amazon.com/Annotated-Turing-Through-Historic-Computability/dp/0470229055/), Nov. 2017, Sep. 2020
 
-    :man_technologist: [Selected Implementation: Simulate Turing Machine using JavaScript](https://github.com/lin/AnnotatedTuring)
+    :man_technologist: [Selected Implementation: Simulate Turing Machine using JavaScript](https://github.com/lin/cs/AnnotatedTuring)
 
 1. :books: [Gödel's Proof](https://www.amazon.com/Gödels-Proof-Ernest-Nagel/dp/0814758371/), Nov. 2017, Sep. 2020
 
 1. :tv: [Fundamentals of Lambda Calculus & Functional Programming in JavaScript](https://www.youtube.com/watch?v=3VQ382QG-y4), Feb. 2019
 
-1. :mortar_board: [Automata Theory - Stanford Online](https://courses.edx.org/courses/course-v1:StanfordOnline+CSX0005+1T2020/course/)
-
 1. :books: [A New Kind of Science](https://www.amazon.com/New-Kind-Science-Stephen-Wolfram/dp/1579550088), Nov. 2017
 
-1. :books: [Computers and Intractability](https://www.amazon.com/Computers-Intractability-NP-Completeness-Mathematical-Sciences/dp/0716710455)
+1. :pause_button:	:books: [Computers and Intractability](https://www.amazon.com/Computers-Intractability-NP-Completeness-Mathematical-Sciences/dp/0716710455)
 
-1. :books: [Introduction to Automata Theory, Languages, and Computation](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/0321455363)
+1. :pause_button:	:mortar_board: [Automata Theory - Stanford Online](https://courses.edx.org/courses/course-v1:StanfordOnline+CSX0005+1T2020/course/)
 
-1. :books: [Elements of Information Theory](https://www.amazon.com/Elements-Information-Theory-Telecommunications-Processing/dp/0471241954)
+1. :pause_button:	:books: [Introduction to Automata Theory, Languages, and Computation](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/0321455363)
+
+1. :pause_button:	:books: [Elements of Information Theory](https://www.amazon.com/Elements-Information-Theory-Telecommunications-Processing/dp/0471241954)
 
 ## Stage II: Computer Systems
 
@@ -46,7 +46,7 @@ Internalize the following subjects:
 
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/build-a-computer) (Project 1 - 5), Feb. 18-20 2019
 
-    :man_technologist: [Combinatory Logic](https://github.com/lin/nand2tetris-gates/); [ALU](https://github.com/lin/nand2tetris-alu/); [Register & Memory](https://github.com/lin/nand2tetris-memory/); [CPU](https://github.com/lin/nand2tetris-cpu/)
+    :man_technologist: [Combinatory Logic](https://github.com/lin/nand2tetris-gates/); [ALU](https://github.com/lin/nand2tetris/nand2tetris-alu/); [Register & Memory](https://github.com/lin/nand2tetris/nand2tetris-memory/); [CPU](https://github.com/lin/nand2tetris/nand2tetris-cpu/)
 
 1.  :exclamation: :books:  [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/) (Chapter 4), Jul. 2019
 
@@ -60,15 +60,15 @@ Internalize the following subjects:
 
 1.  :exclamation: :books:  [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-Engineering/dp/0134123832/) (Chapter 2 - 3), Mar. 2019
 
-    :man_technologist: [Selected Implementation](https://github.com/lin/csapp)
+    :man_technologist: [Selected Implementation](https://github.com/lin/cs/csapp)
 
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 6 - 8), Jun. 2019
 
-    :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris-assembly), May 22 2019,  [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun. 14 2019
+    :man_technologist: Codes: [Project 6 (Assembly Compiler)](https://github.com/lin/nand2tetris/nand2tetris-assembly), May 22 2019,  [Project 7-8 (Virtual Machine Compiler)](https://github.com/lin/nand2tetris-vm), Jun. 14 2019
 
 ## Stage III: Languages and Compilers
 
-1.  :exclamation::mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (Week 2 - 4), Feb. 2019
+1.  :exclamation: :mortar_board: [Stanford CS143: Introduction to Compiler](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (Week 2 - 4), Feb. 2019
 
 1.  :exclamation: :mortar_board: [The Elements of Computing Systems](https://www.coursera.org/learn/nand2tetris2) (Project 10 - 11), Jun. 2019
 
@@ -86,7 +86,7 @@ Internalize the following subjects:
 
 1. :male_detective: **Vue.js:** [Parser for HTML](https://github.com/vuejs/vue/) used in Vue.js, Jun. 2019
 
-    :man_technologist: Codes: [Rewrite](https://github.com/lin/html-parser-lite)
+    :man_technologist: Codes: [Rewrite](https://github.com/lin/cs/html-parser-lite)
 
 1. :male_detective: **KaTeX:** [Parser for LaTex](https://github.com/KaTeX/KaTeX) used in KaTex, Jun. 2019
 
@@ -106,7 +106,7 @@ Internalize the following subjects:
  
     - Took the UIUC [Data Structures Proficiency Exam](https://cs.illinois.edu/admissions/graduate/applications-process-requirements/data-structures-proficiency-exam), Got A+
 
-1. :books: [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+1. :books: [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844), Aug. 2019
 
     - :man_technologist: [Selected Implementations](https://github.com/lin/CLRS)
  
@@ -140,7 +140,7 @@ Internalize the following subjects:
    
 1. :male_detective: [GSAP](https://greensock.com/) Javascript Animation Library, Mar. 2020
 
-    - :man_technologist: [GSAP Core Logic](https://github.com/lin/gsap-light), Mar. 2020
+    - :man_technologist: [GSAP Core Logic](https://github.com/lin/cs/gsap-light), Mar. 2020
  
 ## Stage VI: Artificial Intelligence & Machine Learning
 
@@ -162,19 +162,19 @@ Internalize the following subjects:
 1. :mortar_board: UIUC CS 498: [Applied Machine Learning](http://luthuli.cs.uiuc.edu/~daf/courses/AML-20-Spring/aml-home.html), Fall 2020
 1. :books: [Applied Machine Learning (Forsyth)](https://www.springer.com/gp/book/9783030181130), Fall 2020
 1. :books: [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/), Fall 2020
-1. :books: [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Fall 2020
-1. :books: [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732)
-1. :mortar_board: [Machine Learing (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
+1. :pause_button: :books: [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), Fall 2020
+1. :pause_button: :books: [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732)
+1. :pause_button: :mortar_board: [Machine Learing (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
 
 ### Statistical Learning
 
-1. :mortar_board: UIUC CS 598: [Practical Statistical Learning](https://publish.illinois.edu/liangf/teaching/stat-542/)
-1. :books: [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+1. :pause_button: :mortar_board: UIUC CS 598: [Practical Statistical Learning](https://publish.illinois.edu/liangf/teaching/stat-542/)
+1. :pause_button: :books: [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ### Deep Learning 
 
-1. :mortar_board: [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
-1. :books: [Deep Learning (Goodfellow)](http://www.deeplearningbook.org/)
+1. :pause_button: :mortar_board: [Deep Learning Specialization (Andrew Ng)](https://www.coursera.org/specializations/deep-learning)
+1. :pause_button: :books: [Deep Learning (Goodfellow)](http://www.deeplearningbook.org/)
 
 ## Stage VII: Computer Networking & Distributed Systems
 
@@ -182,19 +182,17 @@ Internalize the following subjects:
 
 1. :tv: [Learn how the Internet works](https://eater.net/inet), Aug 2020
 
-1. :mortar_board: [Cloud Computing](https://www.coursera.org/specializations/cloud-computing), which includes Cloud Computing Applications and Cloud Computing Concepts in UIUC courses, and maybe I won't enroll in these two courses, since they are provided on Coursera.
+1. :pause_button: :mortar_board: [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)
 
 ## Stage VIII: Operating Systems
 
-1. :mortar_board: [操作系统原理（Operating Systems）](https://www.coursera.org/learn/os-pku), Jan 2022
-
-1. :mortar_board: [The Missing Semester - MIT](https://missing.csail.mit.edu/)
+1. :mortar_board: [The Missing Semester - MIT](https://missing.csail.mit.edu/), Fall 2021
 
 ## Stage IX: Databases
 
-1. :mortar_board: [Database Systems](https://www.coursera.org/specializations/database-systems)
+1. :pause_button: :mortar_board: [Database Systems](https://www.coursera.org/specializations/database-systems)
 
-## Master's Degree: [UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)
+## Master's Degree (2020 - 2022): [UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)
 
 :computer: Major Branches of Computer Science, :robot: Artificial Intelligence Related
 
@@ -212,11 +210,11 @@ Internalize the following subjects:
 
 1. ⏸  ⭐️ CS 412: Introduction to Data Mining (Spring 2022) 
 
-1. ⏸  🔥 CS 598: Data Mining Capstone (Summer 2022) 
 
-
-And one of the following two:
+And two of these following three:
 
 1. ⏸  🔥  CS 598: Deep Learning for Healthcare (Spring 2022) 
+
+1. ⏸  🔥  CS 598: Data Mining Capstone (Summer 2022) 
 
 1. ⏸  🔥  STAT 542: Practical Statistical Learning (Fall 2022)
