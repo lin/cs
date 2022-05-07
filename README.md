@@ -208,7 +208,7 @@ Internalize the following subjects:
 
 1. ✅  ⭐️ CS 435: Cloud Networking (Fall 2021, A, 96.44%)
 
-1. ⏸  ⭐️ CS 412: Introduction to Data Mining (Spring 2022, A, 93.7%) 
+1. ✅  ⭐️ CS 412: Introduction to Data Mining (Spring 2022, A, 93.7%) 
 
 1. ⏸  🔥 CS 519: Scientific Visualization (Summer 2022)
 
