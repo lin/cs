@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lin/katex-lite#readme",
   "dependencies": {
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "katex": "^0.10.2"
   }
 }
