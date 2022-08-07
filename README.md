@@ -210,5 +210,6 @@ Internalize the following subjects:
 
 1. ✅  ⭐️ CS 412: Introduction to Data Mining (Spring 2022, A, 93.7%) 
 
-1. ⏸  🔥 CS 519: Scientific Visualization (Summer 2022)
+1. ✅  🔥 CS 519: Scientific Visualization (Summer 2022, A, 97.96%)
 
+1. ⏸  🔥 CS 598: Practical Statistical Learning (Fall 2022)
