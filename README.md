@@ -109,6 +109,7 @@ Internalize the following subjects:
 1. :books: [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844), Aug. 2019
 
     - :man_technologist: [Selected Implementations](https://github.com/lin/CLRS)
+    - Competitive Programming (Only on Leetcode): [https://clist.by/coder/lin/](https://clist.by/coder/lin/)
  
 ## Stage V: Computer Graphics
 
