@@ -195,13 +195,13 @@ Internalize the following subjects:
 
 ## Master's Degree (2020 - 2022): [UIUC MCS Courses](https://cs.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science)
 
-| Course                                        | Semester        |Score |Grade |
-| --------------------------------------------- | --------------- |------|------|
-| CS 418: Interactive Computer Graphic          | Spring 2020     |98    | A+   |
-| STAT 420: Methods of Applied Statistics       | Summer 2020     |99.5  | A+   |
-| CS 498: Applied Machine Learning              | Fall 2020       |100   | A    |
-| CS 598: Advanced Bayesian Modeling            | Spring 2021     |96.9  | A+   |
-| CS 435: Cloud Networking                      | Fall 2021       |96.44 | A    |
-| CS 412: Introduction to Data Mining           | Spring 2022     |93.7  | A    |
-| CS 519: Scientific Visualization              | Summer 2022     |97.96 | A    |
-| CS 598: Practical Statistical Learning        | Fall 2022       |98.89 | A    |
+| Course                                        | Semester        |Score |Grade |A+ Cutoff |
+| --------------------------------------------- | --------------- |------|------|----------|
+| CS 418: Interactive Computer Graphic          | Spring 2020     |98    | A+   |96.67     |
+| STAT 420: Methods of Applied Statistics       | Summer 2020     |99.5  | A+   |99.5      |
+| CS 498: Applied Machine Learning              | Fall 2020       |100   | A    |Extra HW  |
+| CS 598: Advanced Bayesian Modeling            | Spring 2021     |96.9  | A+   |95        |
+| CS 435: Cloud Networking                      | Fall 2021       |96.44 | A    |99        |
+| CS 412: Introduction to Data Mining           | Spring 2022     |93.7  | A    |95        |
+| CS 519: Scientific Visualization              | Summer 2022     |97.96 | A    |98        |
+| CS 598: Practical Statistical Learning        | Fall 2022       |98.39 | A    |No A+     |
