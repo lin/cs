@@ -204,4 +204,4 @@ Internalize the following subjects:
 | CS 435: Cloud Networking                      | Fall 2021       |96.44 | A    |99        |
 | CS 412: Introduction to Data Mining           | Spring 2022     |93.7  | A    |95        |
 | CS 519: Scientific Visualization              | Summer 2022     |97.96 | A    |98        |
-| CS 598: Practical Statistical Learning        | Fall 2022       |98.39 | A    |No A+     |
+| CS 598: Practical Statistical Learning        | Fall 2022       |97.39 | A    |No A+     |
